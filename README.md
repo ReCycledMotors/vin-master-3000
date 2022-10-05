@@ -7,3 +7,4 @@ Everyone should know what their vin means, for the moment Im just going to do am
 
 # Ford
 - https://www.fordification.com/tech/vin.htm
+- https://www.ford-trucks.com/forums/vindecoder.php
